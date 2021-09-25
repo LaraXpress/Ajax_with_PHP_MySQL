@@ -1,1 +1,1 @@
-# Ajax_with_PHP_MySQL
+# Ajax with PHP and MySQL 
